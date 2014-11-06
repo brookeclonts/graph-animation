@@ -1,0 +1,7 @@
+li{
+	max-width:50em;
+}
+ul, li{
+	text-decoration:none;
+	list-style:none;
+}
